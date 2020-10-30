@@ -1,7 +1,7 @@
 body{
     color:rgb(29, 29, 29);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size:12px;
+    font-size:16px;
     font-weight:400;
     line-height:2em;
     margin: 0px;
@@ -108,21 +108,20 @@ div.gallery {
 
 @media (min-width: 1024px) {
     
-    body {background-color: #272727;
+    body {
+        background-color: #272727;
         color: #fff;
+        font-size: 12px;
+        line-height: 1.5em;
     }
         h2 {color: #fff;
             font-size: 18px;
-            line-height: 2em;
         }
 
         h3 {color: #fff;
         font-size: 14px;
-        line-height: 2em;
             }
 }
-
-
 
 
 /* Smartphones (portrait)
